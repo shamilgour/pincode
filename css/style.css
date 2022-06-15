@@ -100,7 +100,6 @@ body {
         from{font-size: 0px;padding: 2px 0px;}
         to{font-size: 30px;}   
     }
-    .row .col-t-6{flex-basis: 50%;}
     .wrap-2 .status h2 {font-size: 12px;}
     .wrap-2 .inp {width: 100%;}
     .wrap-2 .inp #cityName::placeholder{font-size: 12px;}
